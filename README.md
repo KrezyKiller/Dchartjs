@@ -1,4 +1,4 @@
-NOTE :  This Prohect Under Devolpment to know More on [github](https://pypi.org/project/dchartjs/)  
+NOTE :  This Project Under Devolpment to know More on [github](https://pypi.org/project/dchartjs/)  
 
 # dchartjs
 
@@ -35,7 +35,7 @@ from dchartjs.basic_chart import Bchart
 
 Chart = Bchart()
 Chart.chart_data(xdata=[0,2,5,10],ydata=[1,5,5,25])
-Chart.project_web() #it creat temp.html file then open chart in browser 
+Chart.project_web() #it create temp.html file then open chart in browser 
 ```
 ## Basic Style dchartjs
 
