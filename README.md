@@ -2,7 +2,7 @@ NOTE :  This Project Under Devolpment to know More on [github](https://github.co
 
 # dchartjs
 
-dchartjs is python package. it is used to draw charts in frontend Using Django
+dchartjs is python package. it is used to draw charts in frontend Using Python
 ## Installation
 
 Use the package manager [pip](https://pypi.org/project/dchartjs/) to install dchartjs. 
@@ -29,7 +29,8 @@ in chart.html
 </body>
 ```
 ## Basic Usage In No Framework
-if your not using any Framework then you can also plot directly into web 
+if your not using any Framework then you can also plot directly into web. 
+in chart.py
 ```python
 from dchartjs.basic_chart import Bchart
 
@@ -37,8 +38,11 @@ Chart = Bchart()
 Chart.chart_data(xdata=[0,2,5,10],ydata=[1,5,5,25])
 Chart.project_web() #it create temp.html file then open chart in browser 
 ```
+now run
+```python
+python chart.py
+```
 ## Basic Style dchartjs
-
 ```python
 from dchartjs.basic_chart import Bchart
 
