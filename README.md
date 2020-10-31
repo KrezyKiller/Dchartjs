@@ -1,4 +1,4 @@
-NOTE :  This Project Under Devolpment to know More on [github](https://pypi.org/project/dchartjs/)  
+NOTE :  This Project Under Devolpment to know More on [github](https://github.com/KrezyKiller/dchartjs/)  
 
 # dchartjs
 
