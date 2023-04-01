@@ -1,4 +1,4 @@
-NOTE :  This Project Under Devolpment to know More on [github](https://github.com/KrezyKiller/dchartjs/)  
+NOTE :  This Project Devolpment is archived to know More on [github](https://github.com/KrezyKiller/dchartjs/)  
 
 # dchartjs
 
